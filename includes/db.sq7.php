@@ -1,6 +1,5 @@
 <?php
 
-  // if (isset($_POST['submit'])) {
     session_start();
     include_once 'db.inc.php';
 
@@ -90,7 +89,3 @@
 
         header("Location: ../survey-ques".$here.".php?user_inf=success");
     }
-  // }
-  // else {
-  //   header("Location: ../info.php?user_inf=error");
-  // }
