@@ -1,6 +1,5 @@
 <?php
 
-  // if (isset($_POST['submit'])) {
     session_start();
     include_once 'db.inc.php';
 
