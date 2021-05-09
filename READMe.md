@@ -1,4 +1,4 @@
-# UNIVERSITY OF SOUTH FLORIDA
+# University of South Florida
 # Note: This is an ISM6905 Independent Study Project for Fall2020
 1. Author: Surayteja Chalapati
 2. Major: Masters in Business Analytics and Information Systems
